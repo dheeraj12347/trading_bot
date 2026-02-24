@@ -1,0 +1,6 @@
+2026-02-25 00:32:12,656 - bot.orders - INFO - Attempting BUY MARKET order for BTCUSDT
+2026-02-25 00:32:14,769 - bot.orders - ERROR - Failed to place order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-02-25 00:33:28,334 - bot.orders - INFO - Attempting BUY MARKET order for BTCUSDT
+2026-02-25 00:33:29,538 - bot.orders - INFO - Order Successful! Order ID: 12531627031
+2026-02-25 00:34:46,914 - bot.orders - INFO - Attempting BUY LIMIT order for BTCUSDT
+2026-02-25 00:34:48,622 - bot.orders - INFO - Order Successful! Order ID: 12531655017
