@@ -5,7 +5,7 @@ This is a Python-based Command Line Interface (CLI) application designed to plac
 Clone the Repository:
 
 Bash
-git clone <your-repo-url>
+git clone (https://github.com/dheeraj12347/trading_bot)
 cd trading_bot
 Create a Virtual Environment:
 
